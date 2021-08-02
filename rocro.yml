@@ -1,4 +1,5 @@
 ---
 inspecode:
   tools:
-    fossid: default
+    fossid:
+      ignore: '**/tests/'
