@@ -1,3 +1,4 @@
 ---
 inspecode:
-  fossid: default
+  tools:
+    fossid: default
