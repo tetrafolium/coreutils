@@ -1,2 +1,6 @@
 inspecode:
-  fossid: default
+  fossid:
+    options:
+      --ignore:
+        - "n/a"
+        - "none"
