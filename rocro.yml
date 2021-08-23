@@ -1,2 +1,5 @@
 inspecode:
-  fossid: default
+  fossid:
+    --detect:
+      - "gpl"
+      - "gpl-3.0-ONLY"
