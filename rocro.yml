@@ -1,2 +1,4 @@
 inspecode:
-  fossid: default
+  fossid:
+    input: src
+    ignore: src/blake2
