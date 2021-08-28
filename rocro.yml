@@ -1,6 +1,6 @@
 inspecode:
   fossid:
     options:
-      --detect:
-        - "gpl"
-        - "gpl-3.0-ONLY"
+      - --detect:
+          - "gpl"
+          - "gpl-3.0-ONLY"
