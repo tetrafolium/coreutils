@@ -2,4 +2,9 @@ inspecode:
   tools:
     fossid:
       options:
-        --ignore: MIT
+        - --ignore:
+          - MIT
+          - BSD
+          - BSD-2-Clause
+          - BSD-3-Clause
+          - N/A
