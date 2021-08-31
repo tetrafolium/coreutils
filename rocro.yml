@@ -2,4 +2,7 @@
     tools:
       fossid:
         options:
-          --detect: GPL
+          - --detect:
+            - GPL
+            - GPL-3.0-only
+            - GPL-2.0
