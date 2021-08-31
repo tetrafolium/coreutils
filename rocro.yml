@@ -1,6 +1,5 @@
-inspecode:
-  fossid:
-    options:
-      --ignore:
-        - "n/a"
-        - "none"
+  inspecode:
+    tools:
+      fossid:
+        options:
+          --ignore: MIT
