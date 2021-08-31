@@ -1,10 +1,5 @@
-  inspecode:
-    tools:
-      fossid:
-        options:
-          - --ignore:
-            - MIT
-            - BSD
-            - BSD-2-Clause
-            - BSD-3-Clause
-            - N/A
+inspecode:
+  tools:
+    fossid:
+      options:
+        --ignore: MIT
