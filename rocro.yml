@@ -1,2 +1,4 @@
 inspecode:
-  fossid: default
+  fossid:
+    options:
+      --limit: 2
