@@ -1,5 +1,5 @@
 inspecode:
   fossid:
     options:
-      --limit: 1
+      --limit: 10
 # update
