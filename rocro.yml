@@ -2,4 +2,4 @@ inspecode:
   fossid:
     options:
       --limit: 1
-# update
+  sbom: default
