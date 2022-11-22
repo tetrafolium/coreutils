@@ -2,5 +2,5 @@ inspecode:
   fossid:
     options:
       --limit: 1
-  sbom: default
+#  sbom: default
 # Update 2022/11/22 18:02
