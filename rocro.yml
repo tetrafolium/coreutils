@@ -4,7 +4,3 @@ inspecode:
       options:
         - --ignore:
           - MIT
-          - BSD
-          - BSD-2-Clause
-          - BSD-3-Clause
-          - N/A
