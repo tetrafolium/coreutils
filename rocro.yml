@@ -4,3 +4,4 @@ inspecode:
       options:
         - --ignore:
           - MIT
+          - BSD
