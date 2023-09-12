@@ -5,3 +5,4 @@ inspecode:
         - --ignore:
           - MIT
           - BSD
+          - N/A
