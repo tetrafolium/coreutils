@@ -1,6 +1,8 @@
 inspecode:
   fossid:
     options:
-      --limit: 1
-#  sbom: default
-# Update 2022/11/28 18:43
+      --sbom:
+        - spdx_lite
+        - cyclone_dx
+        - csv
+      --confidence: 0.5
