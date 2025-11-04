@@ -1,7 +1,2 @@
 inspecode:
-  fossid:
-    options:
-      --sbom:
-        - spdx_lite
-        - cyclone_dx
-        - csv
+  fossid: default
