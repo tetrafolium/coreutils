@@ -5,4 +5,3 @@ inspecode:
         - spdx_lite
         - cyclone_dx
         - csv
-      --confidence: 0.5
