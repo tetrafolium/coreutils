@@ -2,6 +2,6 @@ inspecode:
   fossid:
     options:
       --sbom:
+        - spdx
         - spdx_lite
         - cyclone_dx
-        - csv
